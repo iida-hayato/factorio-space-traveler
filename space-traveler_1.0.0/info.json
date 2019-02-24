@@ -1,0 +1,11 @@
+{
+  "name": "space-traveler",
+  "version": "1.0.0",
+  "factorio_version": "0.16",
+  "title": "Space Traveler",
+  "author": "hayato.iida",
+  "contact": "",
+  "homepage": "",
+  "description": "Fly around the universe and make a factory.",
+  "dependencies": ["base >= 0.16.0"]
+}
